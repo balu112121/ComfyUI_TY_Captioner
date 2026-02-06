@@ -1,0 +1,8 @@
+ComfyUI_TY_Captioner/
+├── __init__.py
+├── nodes.py
+├── web/
+│   ├── __init__.py
+│   └── js/
+│       └── TY_Captioner.js
+└── README.md
