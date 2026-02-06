@@ -1,0 +1,2 @@
+# ComfyUI_TY_Captioner
+ComfyUI_TY_Captioner 图像描述节点，VAE编码图像的描述提示词
